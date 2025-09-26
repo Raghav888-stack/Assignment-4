@@ -9,7 +9,7 @@ It demonstrates how to handle **file operations, exceptions, and errors in Pytho
 ## 📂 Files in this repository
 - `task1.py` → Reads a file named `sample.txt` line by line and handles the error if the file does not exist.  
 - `task2.py` → Takes user input, writes it to `sample.txt`, appends additional data, and then prints the final content of the file.  
-- `sample.txt` → A sample text file used for testing `task1.py`.
+- `sample.txt` → A sample text file used for testing `task1.py`,task2.py.
 
 ---
 
